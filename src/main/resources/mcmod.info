@@ -1,0 +1,16 @@
+[
+{
+  "modid": "iitemrenderer",
+  "name": "IItem Renderer",
+  "description": "IItem Renderer is back!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Elix_x"],
+  "credits": "Elix_x for IItemRenderer!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
